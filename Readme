@@ -1,4 +1,4 @@
-This Python code is designed to extract information about the top 250 movies listed on IMDb and store this data in an Excel spreadsheet. Let's break down the code step by step:
+This Python code is designed to extract information about the top 250 movies listed on IMDb and store this data in an Excel spreadsheet.
 
 1. Importing Libraries:
 
